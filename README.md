@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 b
 
 
-<h1>xd </h1>
-<img src="https://miro.medium.com/max/730/1*GLPHc0jW0cglcrSPP8Y-8g.jpeg" />
+<h1>Hi, i am happy to see you 😄</h1>
+I am in love with React and express.js, checkout my latest big project, <a href="https://github.com/AlfaOrionis/Motorcycle-Shop">Online Motorcycle Shop </a>
