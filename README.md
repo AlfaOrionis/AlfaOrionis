@@ -22,9 +22,8 @@ I'm a <strong>Front-end developer</strong>, who's in love with <strong>React</st
 <br />
 Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a>
 <br />
-<br />
 <h2> Favourite technologies: </h2>
 <br />
-target="_blank|_self|_parent|_top|framename"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
 
 
