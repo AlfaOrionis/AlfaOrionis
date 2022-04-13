@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AlfaOrionis/AlfaOrionis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +17,9 @@ Here are some ideas to get you started:
 
 
 <h1>Hi, i'am happy to see you 😄</h1>
-I'm a <strong>Front-end developer</strong>, who's in love with <strong>React</strong> and <strong>Express.js</strong>, checkout my latest big project! <a target="_blank|_self|_parent|_top|framename" href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop </a>
+I'm a <strong>Front-end developer</strong>, who's in love with <strong>React</strong> and <strong>Express.js</strong>, checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a>
+
+<!-- -->
+
+Favourite technologies:
+
