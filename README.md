@@ -12,3 +12,4 @@ Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">
 <img style="height: 120px" src="https://cykucjusz.pl/wp-content/uploads/2016/12/JavaScript.png" />
 <img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" />
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfaOrionis)](https://github.com/anuraghazra/github-readme-stats)
