@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
 
+img {
+    width: 120px;
+}
+
+</style>
 
 
 <h1>Hi, i'am happy to see you 😄</h1>
@@ -24,6 +30,6 @@ Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">
 <br />
 <h2> Favourite technologies: </h2>
 <br />
-<img style="width: 120px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
 
 
