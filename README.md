@@ -21,5 +21,10 @@ I'm a <strong>Front-end developer</strong>, who's in love with <strong>React</st
 <br />
 <br />
 Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a>
+<br />
+<br />
+<h2> Favourite technologies: </h2>
+<br />
+target="_blank|_self|_parent|_top|framename"
 
 
