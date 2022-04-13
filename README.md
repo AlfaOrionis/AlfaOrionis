@@ -7,3 +7,4 @@ Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">
 <h2> Favourite technologies: </h2>
 <br />
 <img style="width: 120px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
+<img style="width: 120px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
