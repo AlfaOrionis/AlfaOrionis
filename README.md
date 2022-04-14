@@ -18,7 +18,8 @@
 
 #
 
-Sign up at <a href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a>, and see the <a href="https://github.com/AlfaOrionis/Motorcycle-Shop">code </a> 🏍️🛒 
+Sign up at <a href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a> 🏍️🛒, and see the <a href="https://github.com/AlfaOrionis/Motorcycle-Shop">Code</a>!
+
 
 <p>An online motorcycle shop where u can create an account, make an order, and as an administrator u can add and delete products, brands, and categories.</p>
 
