@@ -23,12 +23,12 @@
 
 <p><strong>Motorcycle shop</strong> - Fully responsive online motorcycle shop where u can create an account, make an order, and as an administrator u can add and delete products, brands, and categories.</p>
 
-Sign up at <a href="https://motorcycleshop.herokuapp.com/">Motorcycle Shop</a> 🏍️🛒, and see the <a href="https://github.com/AlfaOrionis/Motorcycle-Shop">Code</a>!
+Sign up at <a href="https://motorcycleshop.herokuapp.com/"><strong>Motorcycle Shop</strong></a> 🏍️🛒, and see the <a href="https://github.com/AlfaOrionis/Motorcycle-Shop">Code</a>!
 
 
 
 <br />
-• Creating an account and placing an order
+• <strong>Creating an account and placing an order</strong>
 
 <br />
 <br />
@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/93833984/163392817-a0fc8034-0ae9-4810-
 
 <br />
 
-• Adding and deleting the product as an Administrator
+• <strong>Adding and deleting the product as an Administrator</strong>
 <br />
 
 https://user-images.githubusercontent.com/93833984/163435893-851dd2c3-d981-4ba3-bbea-c8295140c535.mp4
