@@ -19,6 +19,8 @@
 
 <a href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a> 🏍️🏍️
 
+An online motorcycle shop where u can create an account, make an order, and as an administrator u can add and delete products, brands, and categories.
+
 
 <br />
 
