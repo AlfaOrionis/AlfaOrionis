@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Happy to see you!</h1>
 <h3 align="center">My name is Kamil Zając, i'm a Front-end developer, who's in love with React
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="35" height="31"/> and Express.js</strong> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" height="41" width="41" /></h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="47" height="42"/> and Express.js</strong> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="42" width="42" /></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfaorionis&label=Profile%20views&color=0e75b6&style=flat" alt="alfaorionis" /> </p>
