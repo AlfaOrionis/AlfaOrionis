@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Happy to see you!</h1>
 <h3 align="center">My name is Kamil Zając, and i'm a <strong>Front-end developer</strong>, who's in love with <strong>React
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="35" height="31"/>
   </strong> and <strong>Express.js</strong>.</h3>
 
 
