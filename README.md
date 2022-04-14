@@ -18,7 +18,7 @@
 
 #
 
-<a font-weight="bold" href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a> 🏍️🛒 
+<a style="font-weight: bold" href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a> 🏍️🛒 
 
 <p>An online motorcycle shop where u can create an account, make an order, and as an administrator u can add and delete products, brands, and categories.</p>
 
