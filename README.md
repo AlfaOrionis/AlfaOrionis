@@ -22,4 +22,3 @@ https://user-images.githubusercontent.com/93833984/163377253-07acc3bc-4058-47fd-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfaorionis&show_icons=true&locale=en&layout=compact" alt="alfaorionis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfaorionis&show_icons=true&locale=en" alt="alfaorionis" /></p>
