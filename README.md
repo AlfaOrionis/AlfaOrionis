@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfaorionis" alt="alfaorionis" /></a> </p>
 
+![React-icon svg](https://user-images.githubusercontent.com/93833984/163379399-891c0d84-7d5e-4f5b-8cc3-cd4dd20a9200.png)
 
-![icons8-javascript-48](https://user-images.githubusercontent.com/93833984/163379179-279a1bb9-2700-481e-92b1-0523c4ba75bb.png)
+
 
 
 
