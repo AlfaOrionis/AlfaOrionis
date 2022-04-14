@@ -10,7 +10,8 @@ Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">
 <div style="display: flex;">
 <img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />
 <img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
-<img style="height: 120px" src="https://cykucjusz.pl/wp-content/uploads/2016/12/JavaScript.png" />![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61372f52656163742d69636f6e2e7376672f32343070782d52656163742d69636f6e2e7376672e706e67](https://user-images.githubusercontent.com/93833984/163350536-55db1ccb-ae1f-4001-b0c7-e1fb49a08703.png)
-
+<img style="height: 120px" src="https://cykucjusz.pl/wp-content/uploads/2016/12/JavaScript.png" />
 </div>
-![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61372f52656163742d69636f6e2e7376672f32343070782d52656163742d69636f6e2e7376672e706e67](https://user-images.githubusercontent.com/93833984/163350608-a3d8f438-ad86-4e87-81d8-2b0b88bb7f6e.png)
+
+
+![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61372f52656163742d69636f6e2e7376672f32343070782d52656163742d69636f6e2e7376672e706e67](https://user-images.githubusercontent.com/93833984/163350735-d402b782-ea54-42fc-91d3-4b8b2cbfd0e0.png)
