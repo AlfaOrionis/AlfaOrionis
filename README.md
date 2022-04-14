@@ -26,7 +26,7 @@
 <br />
 • Creating an account
 
-<br /><br />
+<br />
 
 https://user-images.githubusercontent.com/93833984/163377253-07acc3bc-4058-47fd-a0c9-e557627d3152.mp4
 
