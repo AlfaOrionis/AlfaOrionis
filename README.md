@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfaorionis&label=Profile%20views&color=0e75b6&style=flat" alt="alfaorionis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfaorionis" alt="alfaorionis" /></a> </p>
-![icons8-javascript-22](https://user-images.githubusercontent.com/93833984/163379085-7ce92e9d-4123-46cc-8ecb-07aebe40156f.png)
+
+![icons8-javascript-22](https://user-images.githubusercontent.com/93833984/163379136-611c407b-be25-4200-862e-67694cfc7516.png)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
