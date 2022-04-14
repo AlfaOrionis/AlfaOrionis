@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfaorionis" alt="alfaorionis" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfaorionis&show_icons=true&locale=en&layout=compact" alt="alfaorionis" /></p>
+
 <p align="left">
 </p>
 
@@ -19,6 +21,3 @@
 <br />
 
 https://user-images.githubusercontent.com/93833984/163377253-07acc3bc-4058-47fd-a0c9-e557627d3152.mp4
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfaorionis&show_icons=true&locale=en&layout=compact" alt="alfaorionis" /></p>
-
