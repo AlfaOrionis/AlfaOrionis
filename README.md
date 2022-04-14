@@ -24,12 +24,14 @@
 
 
 <br />
-• Creating an account
+• Creating an account and placing an order
 
 <br />
 <br />
 
-https://user-images.githubusercontent.com/93833984/163377253-07acc3bc-4058-47fd-a0c9-e557627d3152.mp4
+
+https://user-images.githubusercontent.com/93833984/163392817-a0fc8034-0ae9-4810-b2c4-0c260b1310fa.mp4
+
 
 <br />
 
