@@ -15,9 +15,10 @@
 
 #
 
+<br />
+
 ### Checkout my latest projects!
 
-<br />
 
 <a href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a> 🏍️🏍️
 
