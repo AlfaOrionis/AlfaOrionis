@@ -13,6 +13,7 @@ Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">
 <img style="height: 120px" src="https://jaki-jezyk-programowania.pl/img/technologies/javascript.png" />
 <img style="height: 120px" src="https://www.poswojsku.info/obrazki/it-grafika-web/javascript2-250x270.png" />
 <img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" />
+  <img style="height: 120px" src="https://cykucjusz.pl/wp-content/uploads/2016/12/JavaScript.png" />
 </div>
 
 ![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61372f52656163742d69636f6e2e7376672f32343070782d52656163742d69636f6e2e7376672e706e67](https://user-images.githubusercontent.com/93833984/163341714-6ac77144-5dbe-49a9-8710-9bfaf738f1de.png)
