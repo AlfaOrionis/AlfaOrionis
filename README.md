@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Happy to see you!</h1>
-<h3 align="center">My name is Kamil Zając, and i'm a <strong>Front-end developer</strong>, who's in love with <strong>React![React-icon svg](https://user-images.githubusercontent.com/93833984/163379560-27f7ac06-a772-40e8-adcc-b96b783d3ce9.png)
+<h3 align="center">My name is Kamil Zając, and i'm a <strong>Front-end developer</strong>, who's in love with <strong>React ![React-icon svg](https://user-images.githubusercontent.com/93833984/163379560-27f7ac06-a772-40e8-adcc-b96b783d3ce9.png)
  </strong> and <strong>Express.js</strong>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfaorionis&label=Profile%20views&color=0e75b6&style=flat" alt="alfaorionis" /> </p>
