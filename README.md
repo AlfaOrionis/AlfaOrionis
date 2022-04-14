@@ -6,11 +6,23 @@ Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">
 <br />
 <h2> Favourite technologies: </h2>
 <br />
+
 <div style="display: flex;">
-  <div>   <img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />          </div>
-<div> <img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />            </div>
-<div>  <img style="height: 120px" src="https://cykucjusz.pl/wp-content/uploads/2016/12/JavaScript.png" />           </div>
-<div>     <img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" />        </div>
+  
+  
+  <div>
+    <img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" />        </div>
+  
+<div>
+  <img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />          </div>
+  
+<div>
+  <img style="height: 120px" src="https://cykucjusz.pl/wp-content/uploads/2016/12/JavaScript.png" />
+</div>
+  
+<div> 
+<img style="height: 120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" />   
+</div>
 
 
 
