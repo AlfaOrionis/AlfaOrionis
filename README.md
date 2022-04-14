@@ -3,7 +3,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="47" height="42"/> and <strong>Express.js</strong> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2Cl7TKrJZnqIcySObGhSToz0G8jAHbfryA&usqp=CAU" height="42" width="42" /></p>
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfaorionis&label=Profile%20views&color=0e75b6&style=flat" alt="alfaorionis" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfaorionis&show_icons=true&locale=en&layout=compact" alt="alfaorionis" /></p>
 
