@@ -39,7 +39,11 @@ https://user-images.githubusercontent.com/93833984/163392817-a0fc8034-0ae9-4810-
 
 <br />
 
-• Adding products
+• Adding and deleting the product as an Administrator
 <br />
 
-https://user-images.githubusercontent.com/93833984/163377253-07acc3bc-4058-47fd-a0c9-e557627d3152.mp4
+https://user-images.githubusercontent.com/93833984/163435893-851dd2c3-d981-4ba3-bbea-c8295140c535.mp4
+
+
+
+
