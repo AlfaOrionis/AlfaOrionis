@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Happy to see you!</h1>
 <h3 align="center">My name is Kamil Zając, and i'm a <strong>Front-end developer</strong>, who's in love with <strong>React</strong> and <strong>Express.js</strong>.</h3>
 
-Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a>
+<h3>Checkout my latest big project! <a href="https://motorcycleshop.herokuapp.com/">Online Motorcycle Shop</a> </h3>
 
 https://user-images.githubusercontent.com/93833984/163377253-07acc3bc-4058-47fd-a0c9-e557627d3152.mp4
 
